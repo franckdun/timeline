@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header {
+    img {
+        width: 40%;
+        margin: 0 auto;
+        display: block;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+}
+
+.img_musician {
+    width: 100%;
+    height: 200px;
+}
+
+// a {text-decoration: none;}
+
+.MuiButton-textPrimary {
+    color: #5b166d !important;
+}
