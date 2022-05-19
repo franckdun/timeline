@@ -1,8 +1,18 @@
-# Getting Started with Create React App
+## Dans ce tutoriel, nous allons créer une application qui, à l'aide d'une timeline dynamique, nous permettra d'afficher les musiciens de musique classique qui ont vécu à une certaine époque.
 
-[voir le tuto](https://youtu.be/Nvpzs5dLI1Y).
+Au programme :
 
-[visible ici](https://github.com/facebook/create-react-app).
-Dans ce tutoriel, nous allons créer une application qui, à l'aide d'une timeline dynamique, nous permettra d'afficher les musiciens de musique classique qui ont vécu à une certaine époque.
+                REACT JS (useState, useEffect, Composants, render), 
 
-Au programme : REACTJS (useState, useEffect, Composants, render), MATERIAL-UI (Grid, Slider, Card) et SASS.
+                MATERIAL-UI (Grid, Slider, Card) 
+
+                et SASS.
+
+[Application visible ici](https://franckdun.github.io/timeline).
+
+[Voir le tuto](https://youtu.be/Nvpzs5dLI1Y).
+
+
+
+
+
