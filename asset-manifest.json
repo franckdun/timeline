@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/timeline/static/css/main.d951b633.css",
+    "main.js": "/timeline/static/js/main.24754a80.js",
+    "static/js/787.e097d17b.chunk.js": "/timeline/static/js/787.e097d17b.chunk.js",
+    "static/media/Chopin.jpg": "/timeline/static/media/Chopin.0dfdcb9e5ebc101ca055.jpg",
+    "static/media/Wolfgang.jpg": "/timeline/static/media/Wolfgang.b31b605fe4f92ea32618.jpg",
+    "static/media/Joseph_Haydn.jpg": "/timeline/static/media/Joseph_Haydn.81360dac7e861fb26ec5.jpg",
+    "static/media/Vivaldi.jpg": "/timeline/static/media/Vivaldi.79dba98382a5f601daa0.jpg",
+    "static/media/Wagner.jpg": "/timeline/static/media/Wagner.007639d5a3506f25f8af.jpg",
+    "static/media/Schumann.jpg": "/timeline/static/media/Schumann.1318b727f55b265533c7.jpg",
+    "static/media/Handel.jpg": "/timeline/static/media/Handel.7a318cbbcce86d301ae1.jpg",
+    "static/media/Beethoven.jpg": "/timeline/static/media/Beethoven.a7d500e48fc46a09e210.jpg",
+    "static/media/Tchaïkovski.gif": "/timeline/static/media/Tchaïkovski.36746becc30bcc467f58.gif",
+    "static/media/Liszt.jpg": "/timeline/static/media/Liszt.3915d6a02ab5d8a26011.jpg",
+    "static/media/Bach.jpg": "/timeline/static/media/Bach.2156fdf229e152f4925d.jpg",
+    "static/media/Franz.jpg": "/timeline/static/media/Franz.68a53b380444885dc307.jpg",
+    "static/media/JohannesBrahms.jpg": "/timeline/static/media/JohannesBrahms.14cd160ee22e44600842.jpg",
+    "static/media/logo.svg": "/timeline/static/media/logo.6eb6797fa8e9c4d83accdcea23f0d198.svg",
+    "index.html": "/timeline/index.html",
+    "main.d951b633.css.map": "/timeline/static/css/main.d951b633.css.map",
+    "main.24754a80.js.map": "/timeline/static/js/main.24754a80.js.map",
+    "787.e097d17b.chunk.js.map": "/timeline/static/js/787.e097d17b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d951b633.css",
+    "static/js/main.24754a80.js"
+  ]
+}
