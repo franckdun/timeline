@@ -15,7 +15,4 @@ Au programme :
 [Voir le tuto](https://youtu.be/Nvpzs5dLI1Y).
 
 
-
-![Classiques](https://user-images.githubusercontent.com/40036047/169357867-7a1d7ae4-9277-4a5b-b495-0351da550a83.PNG)
-
-
+![img_contact](./img/Classiques.PNG )
